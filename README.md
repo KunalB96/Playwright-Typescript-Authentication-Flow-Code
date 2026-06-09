@@ -1,5 +1,3 @@
-# Playwright-TypeScript-Authentication-Flow-Code
-
 # Playwright Authentication Flow Automation Framework
 
 ## Overview
