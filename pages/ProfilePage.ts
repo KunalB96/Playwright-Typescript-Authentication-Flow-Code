@@ -132,14 +132,5 @@ export class ProfilePage {
             await this.currentProfile().textContent()
         )?.trim();
     }
-
-
-    //  async currentProfile1() {
-
-    //     return await this.page
-    //         .locator('//*[@id="__nuxt"]/div[2]/header/div/div/div[3]/div[2]/span[2]')  
-    //         .textContent();
-    // }
-
     
 }
